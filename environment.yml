@@ -1,0 +1,9 @@
+name: dl4image
+dependencies:
+- scikit-learn
+- matplotlib
+- jupyter
+- pip:
+  - tensorflow
+  - keras
+  - watermark
