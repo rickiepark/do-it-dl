@@ -1,2 +1,3 @@
-# pyimagesearch
-deep learning for computer vision
+# Deep Learning for Image
+
+Deep Learning Notebooks for Image Classification & Segmentation
