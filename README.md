@@ -1,3 +1,3 @@
-# Deep Learning for Image
+# do it deep learning
 
-Deep Learning Notebooks for Image Classification & Segmentation
+Deep Learning Notebooks

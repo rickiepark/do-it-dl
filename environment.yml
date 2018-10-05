@@ -1,11 +1,13 @@
-name: dl4image
+name: do-it-dl
 dependencies:
+- python=3.6
 - scikit-learn
+- numpy
+- pandas
 - matplotlib
 - pillow
-- opencv
 - jupyter
+- cython
 - pip:
-  - tensorflow
+  - tensorflow-gpu
   - keras
-  - watermark
