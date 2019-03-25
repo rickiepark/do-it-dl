@@ -1,6 +1,6 @@
 name: do-it-dl
 dependencies:
-- python=3.6
+- python=3.7
 - scikit-learn
 - numpy
 - pandas
