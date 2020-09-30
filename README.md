@@ -4,7 +4,7 @@
 
 이 저장소는 이지스퍼블리싱에서 출간한 '[Do it! 딥러닝 입문](https://tensorflow.blog/do-it-dl/)'의 파이썬 코드를 담고 있습니다. 이 책은 오프라인/온라인 서점에서 구매할 수 있습니다.([교보문고](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791163031093), [Yes24](http://www.yes24.com/Product/Goods/78896574))
 
-유튜브에서 동영상 강의를 볼 수 있습니다.
+### 유튜브에서 동영상 강의를 볼 수 있습니다.
 
 [![Do it! 딥러닝 입문](http://img.youtube.com/vi/jg8zTIGDPss/0.jpg)](http://www.youtube.com/watch?v=jg8zTIGDPss "Do it! 딥러닝 입문")
 
