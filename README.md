@@ -4,6 +4,10 @@
 
 이 저장소는 이지스퍼블리싱에서 출간한 '[Do it! 딥러닝 입문](https://tensorflow.blog/do-it-dl/)'의 파이썬 코드를 담고 있습니다. 이 책은 오프라인/온라인 서점에서 구매할 수 있습니다.([교보문고](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791163031093), [Yes24](http://www.yes24.com/Product/Goods/78896574))
 
+유튜브에서 동영상 강의를 볼 수 있습니다.
+
+[![Do it! 딥러닝 입문](http://img.youtube.com/vi/jg8zTIGDPss/0.jpg)](http://www.youtube.com/watch?v=jg8zTIGDPss "Do it! 딥러닝 입문")
+
 이 코드는 주피터 노트북으로 제공됩니다. nbviewer로 보거나 구글 코랩에서 실행할 수 있습니다.
 
 - 02 최소한의 도구로 딥러닝을 시작합니다 [nbviewer](https://nbviewer.jupyter.org/github/rickiepark/do-it-dl/blob/master/Ch02.ipynb), [colab](https://colab.research.google.com/github/rickiepark/do-it-dl/blob/master/Ch02.ipynb)
